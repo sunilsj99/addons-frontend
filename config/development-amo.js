@@ -11,4 +11,5 @@ module.exports = {
   fxaConfig: 'local',
   trackingEnabled: false,
   enableStaticThemes: true,
+  enableNewInstallButton: true,
 };

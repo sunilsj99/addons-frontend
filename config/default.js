@@ -98,9 +98,10 @@ module.exports = {
     'defaultLang',
     'dismissedExperienceSurveyCookieName',
     'enableClientConsole',
+    'enableAddonRecommendations',
     'enableDevTools',
     'enableExperienceSurvey',
-    'enableAddonRecommendations',
+    'enableNewInstallButton',
     'enableStaticThemes',
     'fxaConfig',
     'isDeployed',
@@ -297,4 +298,7 @@ module.exports = {
 
   enableExperienceSurvey: false,
   dismissedExperienceSurveyCookieName: 'dismissedExperienceSurvey',
+
+  // Enable new InstallButton.
+  enableNewInstallButton: false,
 };

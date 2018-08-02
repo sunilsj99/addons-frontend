@@ -26,4 +26,5 @@ module.exports = {
   },
 
   enableStaticThemes: true,
+  enableNewInstallButton: true,
 };
